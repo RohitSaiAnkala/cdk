@@ -26,3 +26,8 @@ Lab 2 - Hello world
     -> compile
     -> modify path to include jdk bin
     -> compile and run 
+
+Lab 3 - Data types
+  https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+  Create a variable for each data type, initialize and print
+  
