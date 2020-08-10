@@ -1,3 +1,9 @@
+https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox
+https://www.oracle.com/database/technologies/xe-downloads.html#license-lightbox
+https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/3/eclipse-jee-neon-3-win32-x86_64.zip
+
+
+
 Lab 1 - Installation of JDK
   1. open cmd prompt
       invoke path and copy current path textpad
