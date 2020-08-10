@@ -31,3 +31,12 @@ Lab 3 - Data types
   https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
   Create a variable for each data type, initialize and print
   
+Lab 4 - Array 
+  print only elements where string length is more than 3
+import java.util.Arrays;
+public class Demo4 {
+    public static void main(String[ ] args) {
+       System.out.println("Args "+ Arrays.toString(args));
+       
+    }
+}
