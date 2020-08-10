@@ -1,0 +1,8 @@
+Lab 1 - Installation of JDK
+  1. open cmd prompt
+      invoke path and copy current path textpad
+  2.  install JDK
+  3. open cmd prompt
+      invoke path and copy current path textpad and compare with earlier path
+  
+  
