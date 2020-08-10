@@ -11,4 +11,17 @@ Lab 1 - Installation of JDK
   3. open cmd prompt
       invoke path and copy current path textpad and compare with earlier path
   
-  
+Lab 2 - Hello world
+  public class Demo1{
+  public static void main(String[] args){
+    System.out.println("Hello World !!!");
+  }
+  }	
+  -> javac, java -> Javac Demo1.java , java Demo1 
+  Error 
+    -> modify file name to Demo2.java 
+    -> keep same file name, remove public ->success
+    -> set path=;
+    -> compile
+    -> modify path to include jdk bin
+    -> compile and run 
