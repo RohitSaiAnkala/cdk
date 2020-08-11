@@ -3,8 +3,16 @@ Lab 1 - Start eclipse + new workspace
 	new Java Project -> new CLass -> Lab1 with main method
 		sysout -> ctrl+space
 
-
-
+Lab 2  - 
+	class Emp{
+		private  int empno;
+		private String ename;
+		private double salary;	
+		-> source -> generate getters/setter, 
+	class asgn2 (main)
+		Array of Emp -> 5 
+		Accept 5 emp details from user -> list of 
+		
 
 
 
