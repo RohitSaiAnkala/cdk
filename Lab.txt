@@ -1,3 +1,18 @@
+Day 2 
+Lab 1 - Start eclipse + new workspace
+	new Java Project -> new CLass -> Lab1 with main method
+		sysout -> ctrl+space
+
+
+
+
+
+
+
+
+
+Day 1 
+
 https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox
 ---> https://www.filepuma.com/download/java_development_kit_64bit_8.0.2110.12-22044/download/
 https://www.oracle.com/database/technologies/xe-downloads.html#license-lightbox
