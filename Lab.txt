@@ -13,11 +13,36 @@ Lab 2  -
 		Array of Emp -> 5 
 		Accept 5 emp details from user -> list of 
 		
+Lab 3 - 
+5 employee -> list
+Array (10 elements)
+-> Create
+-> Update
+-> Delete
+-> List
 
+Emp class (int empno, String ename, double salary + public get/set )
+EmpManager class
+{
+	private Emp[] arr = new Emp[count]
+	// current
+	public void create(Emp e){
+		// add emp to arr
+	}
+	public void update(int itemno, Emp e){
+		//modify  arr[itemno]=e
+	}
+	public void delete(empno){  
+		for loop to check empno -> delete that item
+		shift rest of the items +1
+	}
+	public void print()
+	{
+		//print all the items
+	}
+}
 
-
-
-
+------------------------------------------------------------------------------------------
 
 Day 1 
 
