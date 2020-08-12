@@ -17,8 +17,15 @@ Methods -
 	top - see the element but not consume
 	pop - returned and delete
 	isEmpty
-	
-}
+Lab 3 - queue (algorithm/flow
+Queue ( c++ -> flow of program)
+	Array
+		-> enqueue/add -> push an element in queue
+		-> dequeue/poll -> pull an element from queue
+		
+
+------------------------------------------------------------------------------------------
+
 
 Day 2 
 Lab 1 - Start eclipse + new workspace
