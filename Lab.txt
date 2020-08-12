@@ -24,6 +24,14 @@ Queue ( c++ -> flow of program)
 		-> dequeue/poll -> pull an element from queue
 		
 
+Lab 4 - Binary Tree
+	https://www.geeksforgeeks.org/binary-tree-data-structure/
+	introduction - 1, 2, 3
+	1. Sequential Access / Random Access
+	2. Static Allocation/Dynamic Allocation
+	3. Policy for getting/putting numbers
+	4. uses
+
 ------------------------------------------------------------------------------------------
 
 
