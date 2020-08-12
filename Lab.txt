@@ -1,3 +1,25 @@
+Day3 - 
+Lab 1 - Data Structures
+Array  Linked List Stack Queue
+
+1. Sequential Access / Random Access
+2. Static Allocation/Dynamic Allocation
+3. Policy for getting/putting numbers
+4. use of 
+
+
+Lab 2 - class Stack{
+Data members -
+	top (counter)
+	array (string)
+Methods -
+	push - adding element
+	top - see the element but not consume
+	pop - returned and delete
+	isEmpty
+	
+}
+
 Day 2 
 Lab 1 - Start eclipse + new workspace
 	new Java Project -> new CLass -> Lab1 with main method
